@@ -41,7 +41,7 @@ Potential Areas for Improvement:
 ```
 The parking lot has an area of 2,439.82 square meters with 88 parking spots.
 
-The optimized layout can potentially fit up to 296 parking spots, maximizing the use of available space with straight (90-degree) parking and the updated dimensions.
+The optimized layout can potentially fit up to 296 parking spots, maximizing the use of available space with straight (90-degree) parking and updated dimensions.
 ```
 
 #
