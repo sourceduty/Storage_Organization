@@ -50,7 +50,7 @@ The optimized layout can potentially fit up to 296 parking spots, maximizing the
 
 > *"Measure the space you are organizing for higher precision."*
 
-> *"Tesla Gigafactory 2 parking lots could be improved."*
+> *"The optimized layout for Tesla Gigafactory 2 parking lots can potentially fit up to 90 parking spots."*
 
 #
 ### Related Links
