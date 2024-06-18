@@ -39,6 +39,8 @@ Potential Areas for Improvement:
 #
 ### Related Links
 
+[Architecture Diagram](https://github.com/sourceduty/Architecture_Diagram)
+<br>
 [Building Planner](https://github.com/sourceduty/Building_Plan)
 
 ***
