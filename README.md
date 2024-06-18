@@ -28,8 +28,6 @@ Observations:
 2. Distribution: Most of the occupied spaces are clustered towards the top left corner of the lot.
 3. Accessibility: There is a designated handicapped space at the bottom left corner, which appears to be occupied.
 
-![Tesla Factory Parking Lot](https://github.com/sourceduty/Storage_Organization/assets/123030236/2c45bcd6-0deb-400c-81c3-077659edefb2)
-
 Potential Areas for Improvement:
 
 1. Redistribution of Parking Spaces: Consider redistributing the spaces to avoid clustering and encourage more even usage across the lot.
@@ -37,6 +35,8 @@ Potential Areas for Improvement:
 3. Specialized Parking Areas: Introduce areas for compact cars, electric vehicle charging stations, or additional handicapped spaces if needed.
 4. Efficiency Enhancements: Reassess the layout to see if the number of spaces can be increased without compromising accessibility and safety.
 ```
+
+![Parking Lot](https://github.com/sourceduty/Storage_Organization/assets/123030236/d8e52bbe-c764-4d2a-a049-0011141fca12)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
