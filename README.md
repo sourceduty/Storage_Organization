@@ -27,7 +27,6 @@ Observations:
 1. Occupancy Rate: The parking lot is currently about 23% occupied, indicating that there is ample available space.
 2. Distribution: Most of the occupied spaces are clustered towards the top left corner of the lot.
 3. Accessibility: There is a designated handicapped space at the bottom left corner, which appears to be occupied.
-```
 
 ![Tesla Factory Parking Lot](https://github.com/sourceduty/Storage_Organization/assets/123030236/2c45bcd6-0deb-400c-81c3-077659edefb2)
 
@@ -37,6 +36,7 @@ Potential Areas for Improvement:
 2. Signage and Directions: Improve signage and markings to guide drivers to available spaces, particularly in less utilized areas.
 3. Specialized Parking Areas: Introduce areas for compact cars, electric vehicle charging stations, or additional handicapped spaces if needed.
 4. Efficiency Enhancements: Reassess the layout to see if the number of spaces can be increased without compromising accessibility and safety.
+```
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
