@@ -37,6 +37,10 @@ Potential Areas for Improvement:
 ```
 
 #
+
+> Alex: *"Organizing physical storage spaces using AI."*
+
+#
 ### Related Links
 
 [Architecture Diagram](https://github.com/sourceduty/Architecture_Diagram)
