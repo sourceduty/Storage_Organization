@@ -15,6 +15,7 @@
 
 ![Tesla Parking Lots](https://github.com/sourceduty/Storage_Organization/assets/123030236/19f4c59f-145c-4434-8afd-9b7589920639)
 
+```
 Tesla Gigafactory 2 Parking Lot Analysis (1339 South Park Ave, Buffalo, NY 14220, United States)
 
 Total Spaces: 100 (estimated)
@@ -26,6 +27,7 @@ Observations:
 1. Occupancy Rate: The parking lot is currently about 23% occupied, indicating that there is ample available space.
 2. Distribution: Most of the occupied spaces are clustered towards the top left corner of the lot.
 3. Accessibility: There is a designated handicapped space at the bottom left corner, which appears to be occupied.
+```
 
 ![Tesla Factory Parking Lot](https://github.com/sourceduty/Storage_Organization/assets/123030236/2c45bcd6-0deb-400c-81c3-077659edefb2)
 
