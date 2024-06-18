@@ -36,5 +36,10 @@ Potential Areas for Improvement:
 4. Efficiency Enhancements: Reassess the layout to see if the number of spaces can be increased without compromising accessibility and safety.
 ```
 
+#
+### Related Links
+
+[Building Planner](https://github.com/sourceduty/Building_Plan)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
