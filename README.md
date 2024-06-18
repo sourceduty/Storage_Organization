@@ -36,6 +36,8 @@ Potential Areas for Improvement:
 4. Efficiency Enhancements: Reassess the layout to see if the number of spaces can be increased without compromising accessibility and safety.
 ```
 
+![Measured](https://github.com/sourceduty/Storage_Organization/assets/123030236/a30ae348-8db5-4513-bbb5-34a2e27ef9a5)
+
 #
 
 > Alex: *"Organizing physical storage spaces using AI."*
