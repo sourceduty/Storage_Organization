@@ -39,10 +39,7 @@ Potential Areas for Improvement:
 ![Measured](https://github.com/sourceduty/Storage_Organization/assets/123030236/a30ae348-8db5-4513-bbb5-34a2e27ef9a5)
 
 ```
-Lot Dimensions: 65.86 meters by 37.07 meters
-Number of Rows: 10
-Number of Columns: 14
-Total Spaces: 140 (an increase from the original 100 spaces)
+The parking lot has an area of 2,439.82 square meters with 88 parking spots.
 ```
 
 #
