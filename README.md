@@ -36,7 +36,5 @@ Potential Areas for Improvement:
 4. Efficiency Enhancements: Reassess the layout to see if the number of spaces can be increased without compromising accessibility and safety.
 ```
 
-![Parking Lot](https://github.com/sourceduty/Storage_Organization/assets/123030236/d8e52bbe-c764-4d2a-a049-0011141fca12)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
