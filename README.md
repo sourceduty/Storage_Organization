@@ -42,6 +42,8 @@ Potential Areas for Improvement:
 
 > *"Measure the space you are organizing for higher precision."*
 
+> *"Tesla Gigafactory 2 parking lots could be improved."*
+
 #
 ### Related Links
 
