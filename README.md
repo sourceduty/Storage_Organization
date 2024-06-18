@@ -40,6 +40,8 @@ Potential Areas for Improvement:
 
 > Alex: *"Organizing physical storage spaces using AI."*
 
+> *"Measure the space you are organizing for higher precision."*
+
 #
 ### Related Links
 
