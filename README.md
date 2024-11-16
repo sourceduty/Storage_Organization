@@ -58,6 +58,8 @@ The optimized layout can potentially fit up to 296 parking spots, maximizing the
 [Architecture Diagram](https://github.com/sourceduty/Architecture_Diagram)
 <br>
 [Building Planner](https://github.com/sourceduty/Building_Plan)
+<br>
+[Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
